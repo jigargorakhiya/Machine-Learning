@@ -1,0 +1,17 @@
+{
+ "argv": [
+  "/Library/Frameworks/Python.framework/Versions/3.7/bin/python3",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3",
+ "language": "python"
+}
+
+
+cd /Users/jigar/Library/Jupyter/kernels/python3
+cd /usr/local/share/jupyter/kernels/python2
+
+jupyter kernelspec list

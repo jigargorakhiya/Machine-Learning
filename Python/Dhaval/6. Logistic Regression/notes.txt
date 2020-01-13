@@ -1,0 +1,12 @@
+Logistic Regression:
+- It's one of the techinque to solve the classification problems
+- Ex: 1. Binary Classification: Customer will buy insurance or not
+      2. Multuple Classification: Person will give a vote to BJP, Congress, AAP or Other Parties
+
+- Sigmoid or Logit Function:
+
+  sigmoid(z) = 1/ ( 1 + e ^ -z )
+
+            Where e = Euler's number ~ 2.71828
+
+- Sigmoid function convert input into range 0 to 1. 
